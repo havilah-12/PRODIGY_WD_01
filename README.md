@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-A Responsive Web page 
+## A Responsive Web page 
 ![image](https://github.com/havilah-12/PRODIGY_WD_01/assets/142531190/e19c16cd-b5ff-418a-b06e-7d1405497dd1)
 
 ## Technologies used:
